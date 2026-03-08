@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="📺 TIEA TV",3BB TV
+https://tiea9999.github.io/m3u8/iptv.html
+
+#EXTINF:-1 group-title="📺 TIEA TV",INW HD
+https://nongakka.github.io/doofree/inwhd.html
+
+
+#EXTINF:-1 group-title="🎬 หนังใหม่",ผู้เฒ่าพเนจร
+https://nongakka.github.io/doofree/MOVIE01.html
+
+
+#EXTINF:-1 group-title="📺 ซีรีส์",ผู้เฒ่าพเนจร Series
+https://nongakka.github.io/doofree/MOVIE02.html
+
+
+#EXTINF:-1 group-title="🍿 อนิเมะ",AnimeGOOD
+https://nongakka.github.io/doofree/MOVIE03.html
+
+
+#EXTINF:-1 group-title="⭐ VIP",VIP
+https://nongakka.github.io/doofree/VIP.html
